@@ -10,6 +10,7 @@
 
 ##Продукты
 * https://github.com/garris/BackstopJS
+* https://github.com/denis-zavgorodny/BackstopJS/ *(форк BackstopJS, добавлена возможность манипуляции со страницей перед вызовом каждого селектора для снятия скриншота. Pull Request пока не приняли)*
 * http://gemini-testing.github.io/gemini/index.html
 * http://webdriver.io/
 
